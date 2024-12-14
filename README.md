@@ -1,2 +1,2 @@
 # solve-for-k
-Discourse on issues related to computers
+Discourse on issues related to computers.
